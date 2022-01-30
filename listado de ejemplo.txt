@@ -1,0 +1,25 @@
+01054 -	Jose Martinez       -	San Martin 549, La Puerta, Catamarca            -	12583, 58654, 43412, 53450 -	043 -	Argentina
+01055 -	Mario Fernandez     -	Adolfo Alsina 1257, Choele Choele, Río Negro    -	45345, 35672, 62534, 15645 -	037 -	Argentina
+02056 -	Pedro Valdéz        -	Mercedes 283, El Chalten, Río Negro             -	23467, 97453, 74457, 74563 -	025 -	Argentina
+02057 -	Helena Carrizo      -	29 de Septiembre 245, Lanús, Buenos Aires       -	45646, 81633, 12583, 58654 -	046 -	Argentina
+03058 -	René Sanchez        -	Chile 643, San Rafael, Mendoza                  -	43412, 53450, 45345, 35672 -	047 -	Argentina
+03059 -	León Blanco         -	Oalzabal 2545, CABA Buenos Aires                -	62534, 15645, 23467, 97453 -	028 -	Argentina
+05060 -	Mario Alberto       -	Perito Moreno 642, La Puerta, Catamarca         -	74457, 74563, 45646, 81633 -	049 -	Argentina
+05061 -	Melisa Gonzalez     -	Av. Maipú 255, Ushuaia, Tierra del Fuego        -	12583, 58654, 43412, 53450 -	030 -	Argentina
+61062 -	Candela Veraz       -	Sgt. Cabral 195, Neuquén, Neuquén               -	45345, 35672, 62534, 15645 -	051 -	Argentina
+61063 -	Adrián Farias       -	Calle 50 534, La Plata, Buenos Aires            -	23467, 97453, 74457, 74563 -	032 -	Argentina
+70164 -	Federico Flores     -	Av. Francia 1223, Rosario, Santa Fe             -	45646, 81633, 12583, 58654 -	033 -	Argentina
+70165 -	Estefanía Boato     -	Alberdi 999, Salta, Salta                       -	43412, 53450, 45345, 35672 -	054 -	Argentina
+10266 -	Luis Giovani        -	Rivadavia 1399, San Justo, Buenos Aires         - 	62534, 15645, 23467, 97453 -	055 -	Argentina
+10367 -	Laura Smith         -	Calle 18 144, Victorica, La Pampa               -	74457, 74563, 45646, 81633 -	026 -	Argentina
+21368 -	Vicentino Ganko     -	San Martin 549, La Puerta, Catamarca            -	62534, 15645, 23467, 97453 -	057 -	Argentina
+42169 -	Claudia Crescinato  -	J. Troncoso 244, Malargüe, Mendoza              -	74457, 74563, 45646, 81633 -	058 -	Argentina
+54370 -	Micaela Carballo    -	Estrada 144, Camarones, Chubut                  -	12583, 58654, 43412, 53450 -	029 -	Argentina
+87671 -	Lucas Fleitas       -	Maria Salanueva 43, Chacharramendi, La Pampa    -	45345, 35672, 62534, 15645 -	060 -	Argentina
+45672 -	Ezequiel Cavallieri -	Av. Roque González 975, Candelaria, Misiones    -	23467, 97453, 74457, 74563 -    061 -	Argentina
+17633 -	Emanuel Sotelo      -	Avenida Ambrosio Olmos 234, Córdoba, Códoba     -	45646, 81633, 12583, 58654 -	062 -	Argentina
+74534 -	Marcela Díaz        -	Av. Mitre 1622, Villa Mercedes, San Luis        -	45345, 35672, 62534, 15645 -	063 -	Argentina
+75238 -	Esteban Faraday     -	Av. Belgrano 980, Mendoza, Mendoza              -	43412, 53450, 45345, 35672 -	054 -	Argentina
+43576 -	Daniela Moreno      -	Av. Dr. Favaloro 432, Los Colorados, La Rioja   -	12583, 58654, 43412, 53450 -	065 -	Argentina
+34177 -	Marina Lopez        -	Las Magnolias 39, General Belgrano, Códoba      -	45646, 81633, 12583, 58654 -	036 -	Argentina
+55178 -	Luna Toth           -	Rivadavia 625, Salta, Salta                     -	62534, 15645, 23467, 97453 -	027 -	Argentina

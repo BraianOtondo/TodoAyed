@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1617742503 source:d:\ayed\circulo\main.cpp
+	<iostream>
+	<math.h>
+
